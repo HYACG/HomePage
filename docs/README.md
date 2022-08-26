@@ -6,7 +6,7 @@ actions:
     link: //jq.qq.com/?_wv=1027&k=hNl4NI35
     type: primary
   - text: 加入QQ频道
-    link: //qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1Vlfou&from=246610&biz=ka#/
+    link: https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=149wJ1&businessType=9&from=246610&biz=ka
     type: secondary
 features:
   - title: 无门槛
