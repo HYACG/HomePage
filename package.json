@@ -1,0 +1,23 @@
+{
+  "name": "hyacg-web",
+  "version": "1.0.0",
+  "description": "WebSite of HYACG",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HYACG/HomePage.git"
+  },
+  "author": "MWX",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/HYACG/HomePage/issues"
+  },
+  "homepage": "https://github.com/HYACG/HomePage#readme",
+  "devDependencies": {
+    "vuepress": "next"
+  }
+}
