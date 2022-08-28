@@ -14,6 +14,8 @@ features:
   - title: 剩下的想到了再写
     details: 
   - title: 就先这样吧
-    details: 
-    
+    details:
+footer: 'Copyright &copy;2022 <a>幻翼动漫社</a>&<a href="//dkrain.com">MWX</a>'
+footerHtml: true
+
 ---
