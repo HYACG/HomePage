@@ -9,9 +9,9 @@ actions:
     link: https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=149wJ1&businessType=9&from=246610&biz=ka
     type: secondary
 features:
-  - title:
-    details:
-  - title:
+  - title: 欢迎回来
+    details: 这里是幻翼动漫社,各位宅宅们永远的家,我们成立于2005年,十数载光阴,我们一路相随。
+  - title: 
     details: 
   - title:
     details:
