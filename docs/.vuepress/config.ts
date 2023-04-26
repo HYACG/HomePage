@@ -14,7 +14,7 @@ export default {
             },
             {
                 text: 'QQ群',
-                link: '//jq.qq.com/?_wv=1027&k=hNl4NI35',
+                link: 'https://jq.qq.com/?_wv=1027&k=iSN6JFW0',
             },
             {
                 text: 'QQ频道',
