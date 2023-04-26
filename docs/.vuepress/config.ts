@@ -3,7 +3,7 @@ import { defaultTheme } from 'vuepress'
 export default {
     lang: 'zh-CN',
     title: '幻翼动漫社',
-    description: '你好,这里是幻翼动漫社的官网(建设中)',
+    description: '⌈以漫之名 扬幻之翼⌋',
     head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     theme: defaultTheme({
         // 默认主题配置
