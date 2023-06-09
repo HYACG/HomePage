@@ -14,7 +14,7 @@ export default {
             },
             {
                 text: 'QQ群',
-                link: 'https://jq.qq.com/?_wv=1027&k=iSN6JFW0',
+                link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XdkxBoGcjThNe-HXITwxcuD2S6nXQVP4&authKey=yLJqGd8w7UB7htaMUS4%2FXOjL6qd8UuM9v5On9wADZl7FS7HQTOywpI3tPgK0SoEl&noverify=0&group_code=538998187',
             },
             {
                 text: 'QQ频道',
