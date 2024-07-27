@@ -15,7 +15,7 @@ features:
     details: 
   - title:
     details:
-footer: 'Copyright &copy;2022-2023 <a>幻翼动漫社</a>&<a href="//dkrain.com">MWX</a>'
+footer: 'Copyright &copy;2022-2024 <a>幻翼动漫社</a>&<a href="//dkrain.com">MWX</a>'
 footerHtml: true
 
 ---
