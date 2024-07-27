@@ -3,7 +3,7 @@ home: true
 heroImage: /HY.png
 actions:
   - text: 加入Q群
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XdkxBoGcjThNe-HXITwxcuD2S6nXQVP4&authKey=yLJqGd8w7UB7htaMUS4%2FXOjL6qd8UuM9v5On9wADZl7FS7HQTOywpI3tPgK0SoEl&noverify=0&group_code=538998187
+    link: https://qm.qq.com/q/Ya1EtQVx4I
     type: primary
   - text: 加入QQ频道
     link: https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=149wJ1&businessType=9&from=246610&biz=ka
